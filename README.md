@@ -10,4 +10,7 @@ Je vais faire un deuxieme commit sur dev
 Cou Cou le confliteuse
 Je ecris n'importe quoi
 Je continue à master
+C'est pour faire des conflits
 Encore
+Je suis sur Dev2
+Deuxieme commit sur Dev2
