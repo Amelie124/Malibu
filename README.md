@@ -6,5 +6,6 @@ J'essaie encore
 Je genere des conflits
 Je suis sur Dev maintenant
 Je vais faire un deuxieme commit sur dev
+Je ecris n'importe quoi
 Je continue à master
 Encore
