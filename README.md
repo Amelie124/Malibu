@@ -14,3 +14,4 @@ C'est pour faire des conflits
 Encore
 Je suis sur Dev2
 Deuxieme commit sur Dev2
+Je vais faire des coflits pour rebase notre branche Dev3
